@@ -818,4 +818,7 @@
     <string name="type_blacklist">Blacklisted call</string>
     <!-- Description for incoming calls that were blacklisted -->
     <string name="type_blacklist">Blacklisted call</string>
+
+    <string name="menu_add_to_blacklist">Add to blacklist</string>
+    <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> added to blacklist</string>
 </resources>
